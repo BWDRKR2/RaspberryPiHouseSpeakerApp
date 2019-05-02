@@ -1,0 +1,62 @@
+{
+
+	"ROOMS": [{
+		"Room_Num": "1",
+		"Room_Desc": "Master Bed",
+		"Relay_1": "18",
+		"Relay_2": "27",
+		"Status": "OFF",
+                "Active": "Y"
+	}, {
+		"Room_Num": "2",
+		"Room_Desc": "Master Wash",
+		"Relay_1": "22",
+		"Relay_2": "23",
+                "Status": "OFF",
+                "Active": "Y"
+	}, {
+		"Room_Num": "3",
+		"Room_Desc": "Office",
+		"Relay_1": "24",
+		"Relay_2": "3",
+                "Status": "OFF",
+                "Active": "Y" 
+
+	}, {
+		"Room_Num": "4",
+		"Room_Desc": "Kitchen",
+		"Relay_1": "4",
+		"Relay_2": "2",
+                "Status": "OFF",
+                "Active": "Y"
+	}, {
+	        "Room_Num": "5",
+		"Room_Desc": "Laundry",
+		"Relay_1": "16",
+		"Relay_2": "20",
+                "Status": "OFF",
+  		"Active": "Y"
+	}, {
+	        "Room_Num": "6",
+		"Room_Desc": "Dan Garage",
+		"Relay_1": "21",
+		"Relay_2": "5",
+                "Status": "OFF",
+		"Active": "Y" 
+	}, {
+	        "Room_Num": "7",
+		"Room_Desc": "Kelly Garage",
+		"Relay_1": "6",
+		"Relay_2": "13",
+                "Status": "OFF",
+                "Active": "Y"
+	}, {
+		"Room_Num": "8",
+		"Room_Desc": "Unused",
+		"Relay_1": "19",
+		"Relay_2": "26",
+                "Status": "OFF",
+                "Active": "N"
+	}
+		]
+}

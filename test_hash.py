@@ -1,5 +1,6 @@
 from werkzeug.security import generate_password_hash, check_password_hash
 
+
 hash1 = generate_password_hash('Editors100')
 hash2 = generate_password_hash('Editors100')
 print hash1
